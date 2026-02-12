@@ -5,6 +5,10 @@
 **[Click Here to Try the App](https://share.streamlit.io/your-username/credit-approval-app)** *(Replace this link after you deploy!)*
 
 ---
+The dataset used in this project contains 51,000+ anonymized banking records.
+It includes internal bank performance data merged with CIBIL credit bureau history.
+
+**Data Source:** [Kaggle - CIBIL and Bank of Baroda Credit Data](https://www.kaggle.com/datasets/sudhirkumarjoon/cibil-and-bank-of-baroda-credit-data)
 
 ### 📖 Overview
 This is a Machine Learning web application designed to automate the credit approval process. It helps banks and financial institutions assess the risk level of loan applicants in real-time.
@@ -34,4 +38,6 @@ By analyzing key financial factors—such as CIBIL score, recent delinquencies, 
 ├── app.py                    # Main Streamlit application
 ├── credit_model_simple.pkl   # Pre-trained ML model (Random Forest)
 ├── requirements.txt          # List of dependencies
-└── README.md                 # Project documentation
+README.md                 # Project documentation
+
+
