@@ -1,9 +1,6 @@
 # Credit-Approval-app
 # 🏦 AI-Powered Credit Risk Dashboard
 
-### 🚀 Live Demo
-**[Click Here to Try the App](https://share.streamlit.io/your-username/credit-approval-app)** *(Replace this link after you deploy!)*
-
 ---
 The dataset used in this project contains 51,000+ anonymized banking records.
 It includes internal bank performance data merged with CIBIL credit bureau history.
